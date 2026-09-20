@@ -144,7 +144,7 @@ The primary objective is to determine whether housing sale prices exhibit spatia
 - Posterior inference
 - MCMC convergence diagnostics
 
-# Statistical Concept 
+## Statistical Concept 
 - Spatial covariance
 - Nugget
 - Partial sill
@@ -166,12 +166,3 @@ thesis/   Complete Master's thesis
 ## Antonio Garcia
 M.S. Applied Statistics
 California State University, Long Beach
-
-
-
-   
-- ## Packages
-- sf
-- gstat
-- spBayes
-- ggplot2
