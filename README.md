@@ -153,7 +153,19 @@ The primary objective is to determine whether housing sale prices exhibit spatia
 - Uncertainty qualification
 
   
-    
+## Repository Structure
+
+R/        Analysis scripts
+data/     Analysis datasets for data - source instructions
+figures/  Selected model diagnostics and visualizations
+results/  Model estimates and comparisons
+thesis/   Complete Master's thesis
+
+## Author
+
+## Antonio Garcia
+M.S. Applied Statistics
+California State University, Long Beach
 
 
 
